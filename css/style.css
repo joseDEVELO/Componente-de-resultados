@@ -137,6 +137,7 @@ body{
  .habilidades h4 span{
     color: #989ba8;
     font-size: 19px;
+    background-color: transparent;
  }
 .habilidades-h4{
     display: flex;
